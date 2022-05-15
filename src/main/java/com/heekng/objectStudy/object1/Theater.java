@@ -1,4 +1,4 @@
-package com.heekng.objectStudy.object;
+package com.heekng.objectStudy.object1;
 
 // 소극장
 public class Theater {

@@ -1,4 +1,4 @@
-package com.heekng.objectStudy.object;
+package com.heekng.objectStudy.object1;
 
 // 관람객
 public class Audience {

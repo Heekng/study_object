@@ -1,4 +1,4 @@
-package com.heekng.objectStudy.object;
+package com.heekng.objectStudy.object1;
 
 // 티켓 판매원
 public class TicketSeller {

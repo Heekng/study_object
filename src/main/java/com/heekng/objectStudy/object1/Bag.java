@@ -1,4 +1,4 @@
-package com.heekng.objectStudy.object;
+package com.heekng.objectStudy.object1;
 
 // 관람객의 소지품을 보관할 가방
 public class Bag {

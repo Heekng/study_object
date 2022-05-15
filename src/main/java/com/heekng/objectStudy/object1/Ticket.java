@@ -1,4 +1,4 @@
-package com.heekng.objectStudy.object;
+package com.heekng.objectStudy.object1;
 
 // 티켓
 public class Ticket {
